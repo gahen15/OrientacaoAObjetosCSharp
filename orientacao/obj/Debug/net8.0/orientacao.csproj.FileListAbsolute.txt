@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\bin\Debug\net8.0\orientacao.exe
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\bin\Debug\net8.0\orientacao.deps.json
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\bin\Debug\net8.0\orientacao.runtimeconfig.json
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\bin\Debug\net8.0\orientacao.dll
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\bin\Debug\net8.0\orientacao.pdb
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.dll
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\refint\orientacao.dll
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.pdb
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\orientacao.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\orientação a objetos\orientacao\obj\Debug\net8.0\ref\orientacao.dll
